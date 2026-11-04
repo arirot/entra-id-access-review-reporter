@@ -39,7 +39,7 @@ docs/          Technical documentation
 
 ## Dashboard Preview
 
-![IAM Access Review Dashboard](screenshots/access-review-dashboard.png)
+[IAM Access Review Dashboard](screenshots/access-review-dashboard.png)
 
 ## Sample Test Results
 
