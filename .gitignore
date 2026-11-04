@@ -1,0 +1,17 @@
+# Generated reports
+reports/*.csv
+reports/*.html
+
+# Credentials and secrets
+.env
+*.secret
+*.pem
+*.key
+credentials.json
+
+# PowerShell temporary files
+*.tmp
+*.log
+
+# Editor configuration
+.vscode/

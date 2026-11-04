@@ -1,0 +1,7 @@
+DisplayName,UserPrincipalName,UserType,AccountEnabled,Department,Groups
+John Smith,john.smith@example.test,Member,True,IT,IT-Users;Security-Team
+Mary Johnson,mary.johnson@example.test,Member,True,HR,HR-Users
+David Brown,david.brown@example.test,Guest,True,Consultants,External-Partners
+Sarah Wilson,sarah.wilson@example.test,Member,False,Finance,Finance-Users
+Peter Adams,peter.adams@example.test,Guest,True,IT,External-Partners
+Alex Taylor,alex.taylor@example.test,Member,True,Operations,
